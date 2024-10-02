@@ -1,5 +1,8 @@
+import java.util.Locale.LanguageRange;
+
 public class lang {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        LanguageRange lingua = new LanguageRange(null);
+        System.out.println(lingua);
     }
 }
