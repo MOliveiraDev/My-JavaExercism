@@ -9,7 +9,7 @@ public class systemtimer {
     static void timer()
     {
         Date relogio = new Date();
-        System.out.println("Esse ");
+        System.out.println("Este código mostra o horário, data, mês e o ano");
         System.out.println(relogio.toString());
 
     }
