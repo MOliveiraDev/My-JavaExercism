@@ -2,7 +2,7 @@ import java.util.Date;
 
 public class systemtimer {
     public static void main(String[] args) {
-        
+        timer();
         
     }
 
