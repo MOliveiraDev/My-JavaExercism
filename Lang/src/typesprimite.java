@@ -13,7 +13,7 @@ public class typesprimite {
         String opiniao = digitar.nextLine(); 
 
         if(opiniao.equalsIgnoreCase("burro do krl")) {
-            System.out.println("\nConcordo plenamente");
+            System.out.println("\nConcordo plenamente\n");
         }
 
         digitar.close();
