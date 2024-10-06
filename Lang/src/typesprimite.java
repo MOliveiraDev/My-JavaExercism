@@ -4,14 +4,15 @@ public class typesprimite {
 
     public static void main(String[] args) {
         Scanner digitar = new Scanner(System.in);
-        String nome = "\nAdriel tirou ";
-        var nota = 2.1;
-        String frase2 = " em matemática";
-        System.out.println(nome + nota + frase2);
+        System.out.println("Digite o nome do aluno");
+        String nome = digitar.nextLine();
+        System.out.println("Digite a nota que ele receberá");
+        var nota = digitar.nextLine();
+        System.out.println("A nota de " + nome + " é " + nota);
         System.out.println("qual é a sua opinião ?");
         String opiniao = digitar.nextLine(); 
 
-        if(opiniao.equalsIgnoreCase("burro demais")) {
+        if(opiniao.equalsIgnoreCase("burro do krl")) {
             System.out.println("\nConcordo plenamente");
         }
 
