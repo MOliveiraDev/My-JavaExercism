@@ -11,5 +11,8 @@ public class deltaprint {
 
         System.out.println("Esse é triangulo retângulo na programação");
 
+        System.out.println("Esse é o delta na programação");
+
+
     }
 }
