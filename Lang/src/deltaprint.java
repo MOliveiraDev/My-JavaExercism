@@ -9,9 +9,9 @@ public class deltaprint {
 
         System.out.println("\n" + l1 + "\n" + l2 + "\n" + l3 + "\n" + l4 + "\n" + l5 + "\n");
 
-        System.out.println("Esse é triangulo retângulo na programação");
+        System.out.println("Esse é triangulo retângulo na programação java");
 
-        System.out.println("Esse é o delta na programação");
+
 
 
     }
