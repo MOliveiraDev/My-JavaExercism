@@ -2,6 +2,8 @@ public class OperadorTernitorio {
     public static void main(String[] args) {
         Operador1();
         Operador2();
+        LogicOperator();
+
     }
 
     static void Operador1(){
@@ -30,5 +32,13 @@ public class OperadorTernitorio {
 
     static void LogicOperator(){
 
-    }
+        int x, y, z;
+        x = 4;
+        y = 7;
+        z = 12;
+        boolean r;
+
+        r = (x==y ^ y<z)? true : false;
+        System.out.println("");
+        System.out.println(r);    }
 }
