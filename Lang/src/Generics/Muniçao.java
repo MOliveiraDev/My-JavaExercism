@@ -1,6 +1,6 @@
 package Generics;
 
-public class CursedEnergy {
+public class Muniçao {
     public static void main(String[] args) {
 
     }

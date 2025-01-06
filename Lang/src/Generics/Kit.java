@@ -1,6 +1,6 @@
 package Generics;
 
-public class Hp {
+public class Kit {
     public static void main(String[] args) {
 
     }
