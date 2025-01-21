@@ -37,8 +37,5 @@ public class Array {
         /*O sistema vai mostrar a posição que eu escolhi do alfabeto
         e de acordo com essa posição, vai me retorna uma palavra */
 
-
-
-
     }
 }
